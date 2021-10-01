@@ -1,4 +1,4 @@
-# CM Blog - Template usign Bootstrap 5.1 by Code Matra
+# CM Blog - Template
 
 This is a simple Blog template designed using Bootstrap 5.1 by Code Matra.
 
