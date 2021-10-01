@@ -9,10 +9,16 @@ This is a simple Blog template designed using Bootstrap 5.1 by Code Matra.
 - Simple and Clean coding 
 
 ## Designed By Code Matra
-https://codematra.com/templates/cm-blog-bootstrap/
+<a target="_blank" href="https://codematra.com/templates/cm-blog-bootstrap/">https://codematra.com/templates/cm-blog-bootstrap/</a>
 
 ## Facebook 
-https://www.facebook.com/codematra
+<a target="_blank" href="https://www.facebook.com/codematra">Code Matra - Facebook Page</a>
 
 ## CodePen
-https://codepen.io/codematra
+<a target="_blank" href="https://codepen.io/codematra">Code Matra - Code Pen</a>
+
+## DEMO Link
+<a target="_blank" href="https://shrikant9907.github.io/cm-blog-template-code-matra/cm-blog/">CM Blog Template - Demo</a>
+
+## Download Source Code
+<a target="_blank" href="https://github.com/shrikant9907/cm-blog-template-code-matra/archive/refs/heads/main.zip">CM Blog Template - Download</a>
