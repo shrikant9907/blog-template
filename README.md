@@ -2,6 +2,8 @@
 
 This is a simple Blog template designed using Bootstrap 5.1 by Code Matra.
 
+<img src="https://codematra.com/wp-content/uploads/2021/10/cm-blog-bootstrap-template-code-matra.png" alt="" title="CM Blog by Code Matra" />
+
 ## Features of CM Blog
 - Responsive Designing
 - Using Bootstrap Latest Version 5.1
