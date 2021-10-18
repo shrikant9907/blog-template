@@ -1,5 +1,5 @@
 # Free Bootstrap 5 Template 
-## Template Name: CM BLOG
+## Template Name: CM BLOG Template
 
 This is a simple Blog template designed using Bootstrap 5 by Code Matra.
 
