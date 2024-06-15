@@ -11,12 +11,6 @@ This is a simple Blog template designed using Bootstrap 5 by Code Matra.
 - Reusable and customizable 
 - Simple and Clean coding 
 
-## Designed By Shrikant
-<a target="_blank" href="https://codematra.com/templates/cm-blog-bootstrap/">https://codematra.com/templates/cm-blog-bootstrap/</a>
-
-## Facebook 
-<a target="_blank" href="https://www.facebook.com/codematra">Code Matra - Facebook Page</a>
-
 ## DEMO Link
 <a target="_blank" href="https://shrikant9907.github.io/blog-template/dist/">Template Demo</a>
 
